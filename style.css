@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    font: 20px 8bitoperator-jve, sans-serif;
+    font: 20px 8bitoperator-jve;
     line-height: 1.8;
     color: #f5f6f7;
 }
@@ -40,8 +40,8 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #FA8072;
+    background-color: #FA8072; /* Blue */
+    color: #76271E;
 }
 
 .card {
