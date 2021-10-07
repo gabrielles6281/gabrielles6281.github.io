@@ -3,13 +3,13 @@ html, body {
 }
 
 body {
-    font: 34px '8bitoperator JVE regular';
+    font: 20px '8bitoperator JVE regular';
     line-height: 1.8;
     color: #000000;
 }
 
 p {
-    font-size: 34px;
+    font-size: 20px;
 }
 
 a {
